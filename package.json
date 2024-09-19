@@ -7,6 +7,6 @@
     "url": "git+https://github.com/pepabo/apollo-flavor.git"
   },
   "dependencies": {
-    "@pepabo-inhouse/tokens": "^0.17.1"
+    "@pepabo-inhouse/tokens": "^0.18.0"
   }
 }
